@@ -3,4 +3,4 @@ pandas
 matplotlib
 tensorflow
 
--e .
+#-e .
